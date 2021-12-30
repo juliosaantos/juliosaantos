@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Júlio Santos 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://https://www.linkedin.com/in/julio-santos-229a48196/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/julio-saantos)
 
 ## Tecnologias que uso no meu dia
 
