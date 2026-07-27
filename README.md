@@ -1,22 +1,59 @@
-## Ola! Eu sou o Júlio Santos 👋
+# Olá! Eu sou o Júlio Santos 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/julio-saantos)
+Desenvolvedor Front-end com quase 4 anos de experiência criando aplicações web utilizando Angular, TypeScript e React.
 
-## Tecnologias que uso no meu dia
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento Full Stack com NestJS, PostgreSQL, Prisma ORM e Firebase através do desenvolvimento do **Kronos POS**, um sistema de PDV Multi-Tenant.
 
-<div style="display: inline_block"></br>
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" >
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-    <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" >
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" >
-    <img align="center" alt="Nest" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" >
-    <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
-    <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-</div></br>
+### 📫 Contato
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julio-saantos)
 
-### Ultimos projetos:
-- [topGamesMobile](https://github.com/juliosaantos/topGamesMobile)</br>
-- [topGames](https://github.com/juliosaantos/topGames)</br>
-- [Calculadora do Iphone](https://github.com/juliosaantos/calculadoraIphone)</br>
-- [Calculo IMC](https://github.com/juliosaantos/calculoIMC)</br>
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Back-end
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+---
+
+## ⭐ Projeto em destaque
+
+### Kronos POS
+Sistema de PDV Multi-Tenant desenvolvido para estudo de arquitetura e boas práticas.
+
+**Stack**
+- Angular
+- NestJS
+- PostgreSQL
+- Prisma ORM
+- Firebase Authentication
+- Multi-Tenant
+
+> Projeto em desenvolvimento.
+
+---
+
+## 📊 Estatísticas
+
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliosaantos&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosaantos&layout=compact&theme=tokyonight)
