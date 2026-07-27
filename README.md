@@ -51,9 +51,3 @@ Sistema de PDV Multi-Tenant desenvolvido para estudo de arquitetura e boas prát
 > Projeto em desenvolvimento.
 
 ---
-
-## 📊 Estatísticas
-
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliosaantos&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliosaantos&layout=compact&theme=tokyonight)
